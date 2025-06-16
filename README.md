@@ -1,2 +1,2 @@
 # CSFinalProject_202506
-There are three files in the repository
+There are four files in the repository, including Langton's Ant, random walk, self avoiding walk and the number of self avoiding walk.
