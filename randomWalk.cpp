@@ -84,13 +84,13 @@ int main() {
            }
        }
 
-//        for (int i = 0; i < walkers; i++) {
-//            redDot.setPosition(walker[i].y * sizeCell, walker[i].x * sizeCell);
-//            window.draw(redDot);
-//        }
-//
-//        window.display();
-//    }
-//
-//    return 0;
-//}
+       for (int i = 0; i < walkers; i++) {
+           redDot.setPosition(walker[i].y * sizeCell, walker[i].x * sizeCell);
+           window.draw(redDot);
+       }
+
+       window.display();
+   }
+
+   return 0;
+}
